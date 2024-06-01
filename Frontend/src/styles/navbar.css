@@ -1,0 +1,14 @@
+.nav_bar{
+  height: auto;
+  width: 100%;
+  background-color: black;
+  padding: 12px;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  transition: all .1s ease-in;
+}
+
+.scrolled{
+  position: fixed;
+}
